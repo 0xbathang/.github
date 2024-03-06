@@ -1,4 +1,4 @@
-## Logos Innovation Lab is a design and R&D studio working on innovating web3 products. It is part of the Logos ecosystem. 
+## Logos Innovation Lab was a design and R&D studio that worked on innovating web3 products and was part of the Logos ecosystem. The programme has been sunset, but we leave the repo up for transparency and reference. 
 
 Logos is a continuation of the original cypherpunk movement, advocating the widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
 
